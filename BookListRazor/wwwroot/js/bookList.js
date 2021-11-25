@@ -9,9 +9,9 @@ function loadDataTable() {
         "ajax": {
             "url": "/api/book",
             "type": "GET",
-            "datatype": "json"
+            "datatype": "json",
         },
-        "colums": [
+        "columns": [
             { "data": "name", "width": "20%" },
             { "data": "author", "width": "20%" },
             { "data": "isbn", "width": "20%" },
