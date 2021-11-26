@@ -3,7 +3,7 @@
 ## Project Description
 A simple ASP.NET library web application to apply the use of Razor Pages in dot net applications.
 
-<img src = "images/BookListRazor.png>
+<img src = "images/BookListRazor.png">
 
 ### Setup Instructions
     - Clone repository from https://github.com/deepeters/razor-library
