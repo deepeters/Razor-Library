@@ -1,7 +1,7 @@
 # Project Name: Razor Library
 
 ## Project Description
-A simple ASP.NET library web application to apply the use of Razor Pages in dot net applications.
+A simple ASP.NET Core 3.1 library web application to apply the use of Razor Pages in dot net applications.
 
 <img src = "images/BookListRazor.png">
 
